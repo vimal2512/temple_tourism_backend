@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+.env
+dist/
+pnpm-lock.yaml
+
+# Logs
+logs/
+*.log
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Docker
+*.local
+docker-compose.override.yml
